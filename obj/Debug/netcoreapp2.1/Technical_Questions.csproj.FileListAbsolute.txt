@@ -1,0 +1,11 @@
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\bin\Debug\netcoreapp2.1\Technical_Questions.deps.json
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\bin\Debug\netcoreapp2.1\Technical_Questions.runtimeconfig.json
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\bin\Debug\netcoreapp2.1\Technical_Questions.runtimeconfig.dev.json
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\bin\Debug\netcoreapp2.1\Technical_Questions.dll
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\bin\Debug\netcoreapp2.1\Technical_Questions.pdb
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\obj\Debug\netcoreapp2.1\Technical_Questions.csprojAssemblyReference.cache
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\obj\Debug\netcoreapp2.1\Technical_Questions.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\obj\Debug\netcoreapp2.1\Technical_Questions.AssemblyInfoInputs.cache
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\obj\Debug\netcoreapp2.1\Technical_Questions.AssemblyInfo.cs
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\obj\Debug\netcoreapp2.1\Technical_Questions.dll
+C:\Users\austi\source\repos\Technical_Questions\Technical_Questions\obj\Debug\netcoreapp2.1\Technical_Questions.pdb
